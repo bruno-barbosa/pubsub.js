@@ -1,0 +1,13 @@
+{
+  "name": "pubsub-js",
+  "version": "1.0.0",
+  "description": "Dependency free publish/subscribe library",
+  "repository": "https://github.com/yewno/selenium",
+  "bugs": "https://github.com/yewno/selenium/issues",
+  "author": "Bruno Barbosa",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
